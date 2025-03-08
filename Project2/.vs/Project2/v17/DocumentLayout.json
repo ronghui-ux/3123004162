@@ -13,15 +13,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -31,7 +27,7 @@
               "RelativeDocumentMoniker": "..\\pprj\\pprj\\pprj.cpp",
               "ToolTip": "C:\\Users\\ronghui zhang\\source\\repos\\pprj\\pprj\\pprj.cpp",
               "RelativeToolTip": "..\\pprj\\pprj\\pprj.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-08T14:58:36.775Z",
               "EditorCaption": ""
